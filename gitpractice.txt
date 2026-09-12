@@ -1,1 +1,3 @@
 I am legend
+
+learn parallel 
